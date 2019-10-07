@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import React, { Component } from 'react';
 import { string } from 'prop-types'; // eslint-disable-line import/no-extraneous-dependencies
 
 const generateColor = () => `#${
